@@ -1,0 +1,14 @@
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\bin\Debug\net8.0\ProjetoBridge.exe
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\bin\Debug\net8.0\ProjetoBridge.deps.json
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\bin\Debug\net8.0\ProjetoBridge.runtimeconfig.json
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\bin\Debug\net8.0\ProjetoBridge.dll
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\bin\Debug\net8.0\ProjetoBridge.pdb
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.AssemblyInfoInputs.cache
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.AssemblyInfo.cs
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.csproj.CoreCompileInputs.cache
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.dll
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\refint\ProjetoBridge.dll
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.pdb
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ProjetoBridge.genruntimeconfig.cache
+C:\Users\rubens.1328711\source\repos\ProjetoBridge\ProjetoBridge\obj\Debug\net8.0\ref\ProjetoBridge.dll
